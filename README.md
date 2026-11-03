@@ -119,8 +119,8 @@ Suggestions and pull requests are welcome. Open an issue to discuss any major ch
 
 **Chandana**
 - GitHub: [@chandana165](https://github.com/chandana165)
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: [linkedin.com/in/b-v-chandana-b528112b3]
+- Email: [chandanabv26@gmail.com]
 
 ## 📄 License
 
