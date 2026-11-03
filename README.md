@@ -88,15 +88,6 @@ Create a `.env` file (never commit it):
 SECRET_KEY=your-random-secret-key
 ```
 
-## 📸 Screenshots
-
-<!-- Add 3–4 screenshots to a /screenshots folder, then uncomment -->
-<!--
-| Login | Dashboard |
-|-------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
--->
-
 ## 🔒 Security & Privacy
 
 - Passwords are stored hashed, never in plain text
