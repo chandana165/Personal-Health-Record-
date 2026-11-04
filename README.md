@@ -22,11 +22,15 @@ A web application that helps users **securely store and manage their personal he
 - 🗄️ **Structured database**: SQLite with Flask, using migrations to track schema changes
 
 ## 🖼️ Screenshots
+### Login
+![Login page](screenshots/login.png)
 
-<!-- TODO: Add 3-4 screenshots. Put the images in a "screenshots" folder, then replace the lines below. -->
-<!-- ![Login page](screenshots/login.png) -->
-<!-- ![Dashboard](screenshots/dashboard.png) -->
-<!-- ![Upload record](screenshots/upload.png) -->
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Upload Record
+![Upload record](screenshots/upload.png)
+
 
 ## 🧰 Tech Stack
 
