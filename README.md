@@ -23,14 +23,16 @@ A web application that helps users **securely store and manage their personal he
 
 ## 🖼️ Screenshots
 ### Login
-![Login page](screenshots/login.png)
+![Login page](screenshots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Upload Record
-![Upload record](screenshots/upload.png)
+![Upload record](screenshots/Upload.png)
 
+### Record
+![Uploaded record](screenshots/Records.png)
 
 ## 🧰 Tech Stack
 
